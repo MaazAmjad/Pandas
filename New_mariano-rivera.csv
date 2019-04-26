@@ -1,0 +1,20 @@
+Year,Age,Time,League,Win,Loss,Win-Loss%
+1995,25,morning,AL,5,3,0.625
+1996,26,evening,AL,8,3,0.727
+1997,27,morning,AL,6,4,0.6
+1998,28,evening,AL,3,0,1
+1999,29,after noon,AL,4,3,0.571
+2000,30,morning,AL,7,4,0.636
+2001,31,evening,AL,4,6,0.4
+2002,32,morning,AL,1,4,0.2
+2003,33,evening,AL,5,2,0.714
+2004,34,after noon,AL,4,2,0.667
+2005,35,morning,AL,7,4,0.636
+2006,36,after noon,AL,5,5,0.5
+2007,37,after noon,AL,3,4,0.429
+2008,38,evening,AL,6,5,0.545
+2009,39,evening,AL,3,3,0.5
+2010,40,after noon,AL,3,3,0.5
+2011,41,after noon,AL,1,2,0.333
+2012,42,evening,AL,1,1,0.5
+2013,43,after noon,AL,6,2,0.75
